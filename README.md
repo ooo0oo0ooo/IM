@@ -1,16 +1,16 @@
 # 即时通讯 
   ## Matrix
-    ### 主要的
-      #### - matrix
-        ##### - [matrix-react-sdk](https://github.com/SchildiChat/matrix-react-sdk)
-        ##### - [matrix-js-sdk](https://github.com/SchildiChat/matrix-js-sdk)
-      #### - sypase
-      #### - element
-        ##### - [element-web](https://github.com/SchildiChat/element-web)
-        ##### - [Element Android](https://github.com/vector-im/element-android)
-        ##### - [element-desktop](https://github.com/SchildiChat/element-desktop)
-    ### 分支
-      #### - syphon
+  ### 主要的
+  #### - matrix   矩阵聊天的根源,衍生出一大堆
+  ##### 为matrix客户端: 用于 React Javascript 的 Matrix SDK     - [matrix-react-sdk](https://github.com/SchildiChat/matrix-react-sdk)
+  ##### 为matrix客户端: JavaScript 的 Matrix 客户端-服务器 SDK     - [matrix-js-sdk](https://github.com/SchildiChat/matrix-js-sdk)
+  #### - sypase    矩阵服务器的最多使用者
+  #### - element    矩阵客户端的最多使用者
+  ##### 为element网络端: Matrix 桌面协作客户端     - [element-web](https://github.com/SchildiChat/element-web)
+  ##### 为element网络端: Matrix Android协作客户端     - [Element Android](https://github.com/vector-im/element-android)
+  ##### 为element桌面端: Matrix 网络协作客户端     - [element-desktop](https://github.com/SchildiChat/element-desktop)
+  ### 分支
+  #### - syphon
         ##### - [syphon](https://github.com/xvmvx/syphon)
         ##### - [Syphon_web](https://github.com/xvmvx/syphon_website)
             为WEB客户端: 已转为静态 HTMl/CSS
