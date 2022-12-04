@@ -28,7 +28,14 @@
 ##### 1 为schildchat: Matrix 客户端/Element Android 分支- [SchildiChat for Android](https://github.com/SchildiChat/SchildiChat-android)
 ##### 2  [schildichat-meta](https://github.com/SchildiChat/schildichat-meta)
 ##### 3 为schildchat: Matrix 客户端/Element Web/Desktop fork- [schildichat-desktop](https://github.com/SchildiChat/schildichat-desktop)
-##### 4 参考 [matrix-js-sdk](https://github.com/SchildiChat/matrix-js-sdk).  [matrix-js-sdk](https://github.com/SchildiChat/matrix-js-sdk).  [Element网络协作客户端](https://github.com/SchildiChat/element-web).  [element-桌面协作客户端](https://github.com/SchildiChat/element-desktop).  [Element Android协作客户端](https://github.com/vector-im/element-android).   [sqlcipher扩展](https://github.com/SchildiChat/sqlcipher).    [android-FCM 分发器](https://github.com/SchildiChat/android-embedded_fcm_distributor).  
+##### 4 参考 
+ 4.1 [matrix-js-sdk](https://github.com/SchildiChat/matrix-js-sdk).  
+ 4.2 [matrix-js-sdk](https://github.com/SchildiChat/matrix-js-sdk).  
+ 4.3 [Element网络协作客户端](https://github.com/SchildiChat/element-web).  
+ 4.4 [element-桌面协作客户端](https://github.com/SchildiChat/element-desktop).  
+ 4.5 [Element Android协作客户端](https://github.com/vector-im/element-android).   
+ 4.6[sqlcipher扩展](https://github.com/SchildiChat/sqlcipher).    
+ 4.7[android-FCM 分发器](https://github.com/SchildiChat/android-embedded_fcm_distributor).  
 
 #### 3⃣️ Qt5
 ##### 1 为Matrix协议的跨平台桌面 IM 客户端 [Quaternion](https://github.com/quotient-im/Quaternion)
